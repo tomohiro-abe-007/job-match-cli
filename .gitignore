@@ -1,0 +1,14 @@
+# 応募履歴は個人情報を含むためコミットしない
+applications.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS / エディタ
+.DS_Store
+.idea/
+.vscode/
