@@ -1,0 +1,57 @@
+# profile.yaml — 自分の保有スキル・ツールを書く設定ファイル
+#
+# required_skills : 求人の「必須要件」側で評価したい保有スキル・ツール
+# preferred_skills: 求人の「歓迎要件」側で評価したい保有スキル・ツール
+#
+# ここに書いた項目は内蔵キーワード辞書に自動マージされるため、
+# 辞書に無い独自スキルを足しても照合対象になります。
+
+# 保有スキル・ツール(必須要件側で評価したいもの)
+required_skills:
+  - Claude Code
+  - Claude
+  - ChatGPT
+  - Gemini
+  - 生成AI
+  - 研修
+  - 講師
+  - コンテンツ制作
+  - 動画制作
+
+# 保有スキル・ツール(歓迎要件側で評価したいもの)
+preferred_skills:
+  - Cursor
+  - Git
+  - GitHub
+  - Visual Studio Code
+  - Python
+  - Midjourney
+  - Recraft
+  - Nano Banana Pro
+  - Flux Pro
+  - Kling AI
+  - Vidu
+  - Hailuo AI
+  - PixVerse
+  - Eleven Labs
+  - VOICEPEAK
+  - Suno
+  - Perplexity
+  - NotebookLM
+  - Genspark
+  - Felo
+  - Gamma
+  - Canva
+  - Adobe Premiere Pro
+  - DaVinci Resolve
+  - HubSpot
+  - Asana
+  - Slack
+  - ChatWork
+  - Airtable
+  - MailChimp
+  - NLP
+  - カウンセリング
+  - SNS運用
+  - インサイドセールス
+  - SDR
